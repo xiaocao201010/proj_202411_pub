@@ -1,0 +1,23 @@
+1. 在github 注册一个用户名。
+2. 创建用户的profile的SSH 秘钥。
+3. 按照git bash 在本地机器上。
+4. admin@DESKTOP-4TO36PI MINGW64 /e/github
+$
+5. 在github上创建repository
+
+admin@DESKTOP-4TO36PI MINGW64 /e/github
+$ git init
+Initialized empty Git repository in E:/github/.git/
+
+admin@DESKTOP-4TO36PI MINGW64 /e/github (master)
+$ git clone https://github.com/xiaocao201010/proj_202411_pub
+Cloning into 'proj_202411_pub'...
+remote: Enumerating objects: 3, done.
+remote: Counting objects: 100% (3/3), done.
+remote: Compressing objects: 100% (2/2), done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+Receiving objects: 100% (3/3), done.
+
+admin@DESKTOP-4TO36PI MINGW64 /e/github (master)
+$
+
